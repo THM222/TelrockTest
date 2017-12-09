@@ -1,5 +1,5 @@
 # TelrockTest
-Vagrant + Ansible test
+
 It's a dog-eat-dog world, and today it's an AI-Robot-Dog that gives the competitive edge to a company in any given sector.
 
 Technology appears to be growing exponentially, so it is essential that companies adapt quickly, or risk going out of business. Companies also need to continuously provide their customers with something new or different, to keep them ahead of the competition. Agility and innovation are key. 
