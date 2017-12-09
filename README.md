@@ -1,0 +1,2 @@
+# TelrockTest
+Vagrant + Ansible test
